@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculatrice.Calculatrice"
+             Title="Calculatrice">
+
+
+    <StackLayout BackgroundColor="Black">
+
+
+        <Label x:Name="result" FontSize="48" FontAttributes="Bold" BackgroundColor="Black" Text="0"
+              TextColor="White" HorizontalTextAlignment="End" VerticalTextAlignment="Center"
+              Grid.ColumnSpan="4" LineBreakMode="NoWrap" />
+  
+
+    <Grid Padding="5" RowSpacing="3" ColumnSpacing="3" BackgroundColor="Black">
+
+    
+
+            <Button Text="7" Grid.Row="1" Grid.Column="0"
+               BorderRadius="30" BorderWidth="10"
+               BackgroundColor="White" TextColor="Black"
+               FontSize="30"/>
+        
+            <Button Text="8" Grid.Row="1" Grid.Column="1"
+                BorderRadius="30" BorderWidth="10"
+               BackgroundColor="White" TextColor="Black"
+               FontSize="30" />
+            <Button Text="9" Grid.Row="1" Grid.Column="2"
+                    FontSize="30"
+               BackgroundColor="White" TextColor="Black"
+               BorderRadius="30" BorderWidth="10" />
+
+            <Button Text="4" Grid.Row="2" Grid.Column="0"
+               BackgroundColor="White" TextColor="Black"
+               FontSize="30"  BorderRadius="30" BorderWidth="10"  />
+            <Button Text="5" Grid.Row="2" Grid.Column="1"
+               BackgroundColor="White" TextColor="Black"
+               FontSize="30"  BorderRadius="30" BorderWidth="10"  />
+            <Button Text="6" Grid.Row="2" Grid.Column="2"
+               BackgroundColor="White" TextColor="Black"
+               FontSize="30"   BorderRadius="30" BorderWidth="10" />
+
+            <Button Text="1" Grid.Row="3" Grid.Column="0"
+               BackgroundColor="White" TextColor="Black"
+               FontSize="30"   BorderRadius="30" BorderWidth="10"  />
+            <Button Text="2" Grid.Row="3" Grid.Column="1"
+               BackgroundColor="White" TextColor="Black"
+               FontSize="30"  BorderRadius="30" BorderWidth="10"  />
+        <Button Text="3" Grid.Row="3" Grid.Column="2" FontSize="30"
+               BackgroundColor="White" TextColor="Black"
+                BorderRadius="30" BorderWidth="10" />
+            <Button Text="0" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3"
+               BackgroundColor="White" TextColor="Black"
+               FontSize="30"  BorderRadius="30" BorderWidth="10" />
+
+            <Button Text="÷" Grid.Row="1" Grid.Column="3" TextColor="White"
+                FontSize="30" BorderRadius="30" BorderWidth="10" Background="Blue" />
+            <Button Text="×" Grid.Row="2" Grid.Column="3" BackgroundColor="Blue"
+                 TextColor="White"
+                FontSize="30"  BorderRadius="30" BorderWidth="10"/>
+            <Button Text="-" Grid.Row="3" Grid.Column="3" BackgroundColor="Blue"
+                  TextColor="White"
+                FontSize="30"  BorderRadius="30" BorderWidth="10"  />
+            <Button Text="+" Grid.Row="4" Grid.Column="3" BackgroundColor="Blue"
+                 TextColor="White"
+                FontSize="30"  BorderRadius="30" BorderWidth="10" />
+
+            <Button Text="C" Grid.Row="5" Grid.Column="0"
+                BackgroundColor="#808080"  TextColor="White"
+                FontSize="30"  BorderRadius="30" BorderWidth="10"  />
+
+        <Button Text="CE" Grid.Row="5" Grid.Column="1"
+                BackgroundColor="#808080"  TextColor="White"
+                FontSize="30"  BorderRadius="30" BorderWidth="10"  />
+   
+           <Button Text="=" Grid.Row="5" Grid.Column="2" Grid.ColumnSpan="2"
+                 TextColor="White" BackgroundColor="Blue"
+                FontSize="30"  BorderRadius="30" BorderWidth="10" />
+
+        </Grid>
+
+    </StackLayout>
+
+</ContentPage>

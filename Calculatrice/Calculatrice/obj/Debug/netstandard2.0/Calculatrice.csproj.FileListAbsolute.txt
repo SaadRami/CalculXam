@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\Calculatrice\Calculatrice\Calculatrice\bin\Debug\netstandard2.0\Calculatrice.deps.json
+C:\Users\ACER\source\repos\Calculatrice\Calculatrice\Calculatrice\bin\Debug\netstandard2.0\Calculatrice.dll
+C:\Users\ACER\source\repos\Calculatrice\Calculatrice\Calculatrice\bin\Debug\netstandard2.0\ref\Calculatrice.dll
+C:\Users\ACER\source\repos\Calculatrice\Calculatrice\Calculatrice\bin\Debug\netstandard2.0\Calculatrice.pdb
+C:\Users\ACER\source\repos\Calculatrice\Calculatrice\Calculatrice\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ACER\source\repos\Calculatrice\Calculatrice\Calculatrice\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ACER\source\repos\Calculatrice\Calculatrice\Calculatrice\obj\Debug\netstandard2.0\Calculatrice.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Calculatrice\Calculatrice\Calculatrice\obj\Debug\netstandard2.0\Calculatrice.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Calculatrice\Calculatrice\Calculatrice\obj\Debug\netstandard2.0\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Calculatrice\Calculatrice\Calculatrice\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ACER\source\repos\Calculatrice\Calculatrice\Calculatrice\obj\Debug\netstandard2.0\Calculatrice.dll
+C:\Users\ACER\source\repos\Calculatrice\Calculatrice\Calculatrice\obj\Debug\netstandard2.0\ref\Calculatrice.dll
+C:\Users\ACER\source\repos\Calculatrice\Calculatrice\Calculatrice\obj\Debug\netstandard2.0\Calculatrice.pdb
+C:\Users\ACER\source\repos\Calculatrice\Calculatrice\Calculatrice\obj\Debug\netstandard2.0\Calculatrice.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Calculatrice\Calculatrice\Calculatrice\obj\Debug\netstandard2.0\Calculatrice.xaml.g.cs
